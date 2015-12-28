@@ -25,3 +25,6 @@ _testmain.go
 client/client
 rest/rest
 server/server
+srv_client
+srv_rest
+srv_server
